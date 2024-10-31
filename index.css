@@ -1,5 +1,13 @@
-<style>
-    h1 {
-        display: none;
-    }
-</style>
+h1 {
+    display: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
